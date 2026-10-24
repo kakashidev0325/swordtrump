@@ -1,9 +1,9 @@
-// Trump Wif Sword — paste values when the coin is live.
+// Inu Wif Sword — paste values when the coin is live.
 // ca: the Pump.fun mint address. Leave "" until it exists.
 // twitter / telegram: full URLs, or "" to hide the buttons.
 const SITE = {
-  name: "Trump Wif Sword",
-  ticker: "SWORDTRUMP",
+  name: "Inu Wif Sword",
+  ticker: "SWORDINU",
   ca: "",
   twitter: "https://x.com/swordtrump_x",
   telegram: "https://t.me/swordtrump_tg",
