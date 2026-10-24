@@ -5,8 +5,8 @@ const SITE = {
   name: "Trump Wif Sword",
   ticker: "SWORDTRUMP",
   ca: "",
-  twitter: "",
-  telegram: "",
+  twitter: "https://x.com/swordtrump_x",
+  telegram: "https://t.me/swordtrump_tg",
 };
 
 const ca = (SITE.ca || "").trim();
